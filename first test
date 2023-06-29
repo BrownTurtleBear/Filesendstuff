@@ -1,0 +1,15 @@
+- text
+Hello, this is a text message!
+
+- embed
+    - title
+    Example Embed
+    - description
+    This is an example embed with a field.
+    - colour
+    00FF00
+    - fields
+        - title
+        Field Title
+        - value
+        Field Value
